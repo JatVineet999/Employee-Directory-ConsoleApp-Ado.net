@@ -1,0 +1,15 @@
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\bin\Debug\net8.0\EmployeeDirectory.Service.deps.json
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\bin\Debug\net8.0\EmployeeDirectory.Service.dll
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\bin\Debug\net8.0\EmployeeDirectory.Service.pdb
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\bin\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\bin\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\EmployeeDirectory.Service.csproj.AssemblyReference.cache
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\EmployeeDirectory.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\EmployeeDirectory.Service.AssemblyInfoInputs.cache
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\EmployeeDirectory.Service.AssemblyInfo.cs
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\EmployeeDirectory.Service.csproj.CoreCompileInputs.cache
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\Employee.77F4F275.Up2Date
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\EmployeeDirectory.Service.dll
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\refint\EmployeeDirectory.Service.dll
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\EmployeeDirectory.Service.pdb
+C:\projects\ProjectConsoleApp\EmployeeDirectory.Service\obj\Debug\net8.0\ref\EmployeeDirectory.Service.dll

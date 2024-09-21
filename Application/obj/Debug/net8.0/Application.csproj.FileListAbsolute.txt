@@ -1,0 +1,46 @@
+C:\projects\ProjectConsoleApp\Application\bin\Debug\net8.0\Application.deps.json
+C:\projects\ProjectConsoleApp\Application\bin\Debug\net8.0\Application.dll
+C:\projects\ProjectConsoleApp\Application\bin\Debug\net8.0\Application.pdb
+C:\projects\ProjectConsoleApp\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\projects\ProjectConsoleApp\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Application.dll
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\refint\Application.dll
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\Application.pdb
+C:\projects\ProjectConsoleApp\Application\obj\Debug\net8.0\ref\Application.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\bin\Debug\net8.0\Application.deps.json
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\bin\Debug\net8.0\Application.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\bin\Debug\net8.0\Application.pdb
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\refint\Application.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\Application.pdb
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Application\obj\Debug\net8.0\ref\Application.dll
+C:\projects\New folder\efcore\Application\bin\Debug\net8.0\Application.deps.json
+C:\projects\New folder\efcore\Application\bin\Debug\net8.0\Application.dll
+C:\projects\New folder\efcore\Application\bin\Debug\net8.0\Application.pdb
+C:\projects\New folder\efcore\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\projects\New folder\efcore\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Application.dll
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\refint\Application.dll
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\Application.pdb
+C:\projects\New folder\efcore\Application\obj\Debug\net8.0\ref\Application.dll

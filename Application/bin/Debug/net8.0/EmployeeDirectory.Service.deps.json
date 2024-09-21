@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeDirectory.Service/1.0.0": {
+        "dependencies": {
+          "EmployeeDirectory.Data": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeDirectory.Service.dll": {}
+        }
+      },
+      "EmployeeDirectory.Data/1.0.0": {
+        "runtime": {
+          "EmployeeDirectory.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeDirectory.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeDirectory.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

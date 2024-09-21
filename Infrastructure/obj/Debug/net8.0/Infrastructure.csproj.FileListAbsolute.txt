@@ -1,0 +1,37 @@
+C:\projects\ProjectConsoleApp\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\projects\ProjectConsoleApp\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\projects\ProjectConsoleApp\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\projects\ProjectConsoleApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\projects\New folder\8-employee-directory-ado-net-JatVineet999\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\projects\New folder\efcore\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\projects\New folder\efcore\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\projects\New folder\efcore\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\projects\New folder\efcore\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
